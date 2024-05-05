@@ -1,0 +1,22 @@
+{
+    "name": "zahedur/zr-events",
+    "description": "ZR Events plugin",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Zr\\Events\\": "includes/"
+        },
+        "files": [
+            "includes/functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "zahedur",
+            "email": "87511400+zahedur@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
