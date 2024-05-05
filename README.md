@@ -11,7 +11,7 @@ ZR Events is a WordPress plugin for managing events. It allows users to add, edi
 
 ## Installation
 
-1. Download the plugin zip file from the [GitHub repository](https://github.com/example/zr-events-plugin).
+1. Download the plugin zip file from the [GitHub repository](https://github.com/zahedur/wp-plugins-zr-events).
 2. In your WordPress admin panel, navigate to Plugins -> Add New.
 3. Click on the "Upload Plugin" button, then select the plugin zip file and click "Install Now".
 4. After installation, click on the "Activate" button to activate the plugin.

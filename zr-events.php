@@ -2,7 +2,7 @@
 /**
  * Plugin Name: ZR Events
  * Description: ZR Events is a WordPress plugin for managing events. It allows users to add, edit, and delete events with event dates, and provides a calendar view for easy event visualization.
- * Plugin URI: https://zahedur.com/zr-events
+ * Plugin URI: https://github.com/zahedur/wp-plugins-zr-events
  * Author: Zahedur Rahman
  * Author URI: https://zahedur.com
  * Version: 1.0
